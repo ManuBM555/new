@@ -1,1 +1,1 @@
-*.py merge=union
+main_file.py merge=union
